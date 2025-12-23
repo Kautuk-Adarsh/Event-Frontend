@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { EventSchema, FormSection, InputFieldGroup, FormField } from '@/types/schema';
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL ;
 
 interface AutoFillResponse {
     data: EventSchema;
