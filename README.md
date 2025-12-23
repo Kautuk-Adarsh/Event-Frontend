@@ -7,7 +7,7 @@ The frontend is designed as a **Dynamic Editor**. Instead of static inputs, it c
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js 14 (App Router)
-- **Language:** TypeScript (Strictly typed, no `any`)
+- **Language:** TypeScript 
 - **Styling:** Tailwind CSS
 - **Iconography:** Lucide React
 - **API Client:** Axios
